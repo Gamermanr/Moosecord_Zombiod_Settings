@@ -1,5 +1,5 @@
 function SpawnRegions()
 	return {
-		{ name = "Main", serverfile = "servertest_spawnpoints.lua" },
+		{ name = "Main", serverfile = "spawnpoints.lua" },
 	}
 end
