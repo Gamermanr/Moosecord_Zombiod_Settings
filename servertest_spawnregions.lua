@@ -1,5 +1,6 @@
 function SpawnRegions()
 	return {
-		{ name = "Main", serverfile = "spawnpoints.lua" },
+		--echocreek
+		{ name = "Main", serverfile = "echo_spawnpoints.lua" },
 	}
 end
